@@ -1,0 +1,15 @@
+// js 파일 <script> 태그 내부라고 생각하기.
+
+function btnClick3() {
+    alert("external 버튼이 클릭되었따~ㅋ")
+}
+
+function changeColor1() {
+    document.getElementById("box").style.backgroundColor='red';
+
+}
+
+function changeColor2() {
+    document.getElementById("box").style.backgroundColor='yellow';
+}
+
